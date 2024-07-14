@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import HomePage from '../../assets/HomePage.png';
+import HomePage2 from '../../assets/HomePage.png';
 
 const HomePage = () => {
   return (
@@ -27,7 +27,7 @@ const HomePage = () => {
       </div>
 
       <div className="w-1/2 flex items-center justify-center mb-32">
-        <img src={HomePage} alt="Coding Illustration" className="rounded-lg shadow-lg border-4 border-white" />
+        <img src={HomePage2} alt="Coding Illustration" className="rounded-lg shadow-lg border-4 border-white" />
       </div>
     </div>
   );
